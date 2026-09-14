@@ -1,0 +1,10 @@
+CC;1001;Carlos;Gómez
+CC;1002;Laura;Rodríguez
+CC;1003;Andrés;Martínez
+CC;1004;Camila;López
+CC;1005;Juan;Hernández
+CC;1006;María;García
+CC;1007;Daniel;Pérez
+CC;1008;Sofía;Ramírez
+CC;1009;Sebastián;Torres
+CC;1010;Valentina;Moreno
